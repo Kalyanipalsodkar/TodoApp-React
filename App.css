@@ -1,0 +1,89 @@
+* {
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #e6f5fa;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.App {
+  text-align: center;
+}
+
+h1 {
+  color: #ffffff;
+  font-size: 30px;
+}
+
+.background {
+  background: #01659e;
+  margin-top: 5rem;
+  padding: 2rem;
+  border-radius: 5px;
+}
+
+.inputbar {
+  outline: none;
+  background: none;
+  border: 1px solid #e0ebfb;
+  padding: 0.5rem 1rem;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  width: 300px;
+  color: #fff;
+}
+
+.inputbar::placeholder {
+  color: #ffffff4d;
+  font-size: 15px;
+}
+
+.addbutton {
+  background: #e0ebfb;
+  color: #000000;
+  border: none;
+  padding: 0.55rem;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.deletebutton {
+  color: #01659e;
+  border: none;
+  padding: 5px;
+  cursor: pointer;
+  font-size: 20px;
+  border-radius: 2px;
+  margin: 5px;
+  align-items: flex-end;
+}
+
+ul::no-bullets{
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.items{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #e0ebfb;
+  color: #000000;
+  padding: 0.75rem 1rem;
+  border-radius: 5px;
+  margin-bottom: 1rem;
+}
+
+input[type="checkbox"] {
+  width: 20px;
+  height: 20px;
+  accent-color: #01659e;
+}
+
