@@ -87,3 +87,25 @@ input[type="checkbox"] {
   accent-color: #01659e;
 }
 
+.editbutton {
+  color: #01659e;
+  border: none;
+  padding: 2px;
+  cursor: pointer;
+  font-size: 20px;
+  border-radius: 2px;
+  margin: 2px;
+  align-items: flex-end;
+}
+
+.clearbutton {
+  color: #01659e;
+  border: none;
+  padding: 2px;
+  cursor: pointer;
+  font-size: 20px;
+  border-radius: 3px;
+  margin: 2px;
+  width: 13vh;
+  height: 4vh;
+}
