@@ -18,5 +18,5 @@ In the project directory, you can run:
     - Clear All button
     - Save todos to local storage and load them when site is reloaded
     
-<h3> OUTPUT </h3>
-<img src="./screenshot.PNG">
+## OUTPUT
+![image](https://github.com/Kalyanipalsodkar/TodoApp-React/assets/138213118/0ddd0427-027e-4649-9829-c32aa8a47438)
