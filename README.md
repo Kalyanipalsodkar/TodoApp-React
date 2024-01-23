@@ -1,4 +1,4 @@
-# TODO REACT APP
+# TODO APP
 
 A Todo app built using ReactJs
 
