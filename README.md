@@ -18,5 +18,5 @@ In the project directory, you can run:
     - Clear All button
     - Save todos to local storage and load them when site is reloaded
     
-## OUTPUT
+<h3> OUTPUT </h3>
 <img src="./screenshot.PNG">
